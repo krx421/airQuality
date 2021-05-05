@@ -1,0 +1,723 @@
+UNIT_LINK,LITH_RANK,LITH1,LITH2,LITH3,LITH4,LITH5,TOTAL_LITH,LOW_LITH,LITH_FORM,LITH_COM
+NYCAa;2,Major,Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Metamorphic     Metasedimentary          Metaclastic               Phyllite                    ,Phyllite,,
+NYCAa;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCAbk;1,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAbk;1,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,Reef,Whitehall Formation-limestone (with Cryptozoon reefs)
+NYCAbk;1,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYCAbk;1,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,"Danby Formation-sandstone, quartzite, dolostone."
+NYCAbk;2,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAbk;2,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,"Hoyt Formation-limestone, oolite.  Whitehall Formation-limestone"
+NYCAbk;2,Minor,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,Little Falls Dolostone-chert; Ticonderoga Dolostone-chert
+NYCAc;1,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCAc;2,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCAc;3,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCAcd;2,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,Cheshire Quartzite
+NYCAcd;2,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,basal conglomerate grading into light-colored gneiss or schist (Dalton Formation).
+NYCAcd;2,Minor,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,light-colored gneiss or schist (Dalton Formation).
+NYCAcd;2,Minor,Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,light-colored gneiss or schist (Dalton Formation).
+NYCAev;2,Major,Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,
+NYCAev;2,Incidental,Metamorphic,Metasedimentary,Metaclastic,Metasandstone,Metagraywacke,Metamorphic     Metasedimentary          Metaclastic               Metasandstone                    Metagraywacke,Metagraywacke,,minor meta-graywacke lenses
+NYCAev;3,Major,Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,
+NYCAev;3,Incidental,Metamorphic,Metasedimentary,Metaclastic,Metasandstone,Metagraywacke,Metamorphic     Metasedimentary          Metaclastic               Metasandstone                    Metagraywacke,Metagraywacke,,minor meta-graywacke lenses
+NYCAg;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCAg;2,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYCAg;2,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYCAg;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCAg;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYCAg;3,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYCAgt;2,"Indeterminate, major",Metamorphic,Metaigneous,Greenstone,,,Metamorphic     Metaigneous          Greenstone                                   ,Greenstone,,
+NYCAgt;2,"Indeterminate, major",Igneous,Volcanic,Mafic-volcanic,Basalt,,Igneous     Volcanic          Mafic-volcanic               Basalt                    ,Basalt,,
+NYCAgt;2,"Indeterminate, major",Igneous,Volcanic,,,,Igneous     Volcanic                                             ,Volcanic,"Pyroclastic, tuff",
+NYCAm;1,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCAm;1,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYCAm;1,"Indeterminate, major",Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,
+NYCAm;1,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYCAm;2,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYCAm;2,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,"Mudd Pond Quartzite, Zion Hill Quartzite"
+NYCAm;2,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,Castleton (North Brittain) Conglomerate
+NYCAm;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,Bomoseen Graywacke Members.
+NYCAn;2,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,Bomoseen Graywacke Member
+NYCAn;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYCAn;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,"includes Diamond Rock Quartzite and Curtis Mountain Quartzite,"
+NYCAn;2,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,includes Stuyvesant Conglomerate
+NYCAn;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCAn;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCAn;3,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCAp;1,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYCAp;2,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYCApg;3,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCApg;3,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,locally conglomeratic
+NYCApw;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCApw;1,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYCApw;1,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCApw;1,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYCApw;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCApw;2,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYCApw;2,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,Hatch Hill Formation
+NYCApw;2,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,West Castleton Formation
+NYCAr;2,Major,Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,
+NYCAr;2,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCAs;3,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAs;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCAth;2,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYCAth;2,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYCAth;2,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAw;2,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAw;2,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,"Pine Plains-dolostone, oolite, shale."
+NYCAw;3,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAw;3,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,Briarcliff-locally cherty
+NYCAw;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,Pine Plains Formation
+NYCAwmd;1,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYCAwmd;1,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAwmd;1,Incidental,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYCAwmd;2,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYCAwmd;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYDbg;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,muscovite-biotite granite gneiss
+NYDco;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDco;4,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDco;4,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDco;4,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,Cattaraugus Formation only
+NYDct;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDct;4,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,Ellicott and Dexterville Formations
+NYDct;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,"Germania Formation, Whitesville Formation, Hinsdale Sandstone, Wellsville Formation, Cuba Sandstone"
+NYDct;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDct;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDcy;4,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDcy;4,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,Machias Formation
+NYDcy;4,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDcy;5,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDcy;5,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDcy;5,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDcyd;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDcyl;4,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDcyl;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDcys;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDcys;4,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDg;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDg;4,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDg;4,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDg;4,Incidental,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYDg;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDg;5,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDg;5,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDg;5,Incidental,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYDgl;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDgl;2,Minor,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYDgl;2,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDgl;2,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYDgl;3,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDgl;3,Minor,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYDgl;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,"Port Jervis Formation (near Port Jervis only)-shale, limestone, chert"
+NYDgo;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDgo;2,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDgo;2,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate
+NYDgo;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDgo;3,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDgo;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDgo;5,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDgu;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDgu;2,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYDgu;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDgu;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDgu;5,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYDh;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDh;3,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYDh;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDh;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate
+NYDhg;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhg;2,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone
+NYDhg;3,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhg;5,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhg;5,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone
+NYDhld;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhld;4,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhld;4,Incidental,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhld;4,Incidental,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale
+NYDhld;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhld;5,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhld;5,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhm;2,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhm;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhm;2,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhm;3,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhm;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhmo;2,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhmo;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDhmo;3,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDhmo;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDhmo;4,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDhmo;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDhmo;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDhmo;5,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDhmr;2,Incidental,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDhmr;2,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDhmr;2,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDhmr;2,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,black gas shale
+NYDhmr;4,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYDhmr;5,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYDhmr;5,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDhpl;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDhpl;2,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDhpl;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhpl;3,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhpm;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhpm;2,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYDhpm;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhpm;5,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhpm;5,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYDhpm;5,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhsk;4,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhsk;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhsk;4,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale
+NYDhsk;5,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDhsk;5,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYDhsk;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDhsk;5,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale
+NYDj;4,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDj;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,Wiscoy Formation
+NYDj;4,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYDj;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDj;5,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDj;5,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYDo;2,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDo;2,Incidental,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDo;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDo;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDob;4,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDob;4,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,"Morehouse (cherty), Edgecliff cherty Limestone Member"
+NYDob;4,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,Amherstburg Formation-sandstone (Sylvania); Bois Blanc Formation-sandstone (Springvale).
+NYDon;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDon;2,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYDon;5,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDon;5,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYDou;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDou;2,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDou;2,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDou;3,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,"Seneca, Morehouse (cherty), and Nedrow Limestone Members, Edgecliff cherty Limestone Member, local bioherms, Buttermilk Falls Limestone Member; Schoharie Formation-shale, limestone"
+NYDou;3,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,Morehouse Limestone (cherty); Edgecliff cherty Limestone Member
+NYDou;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,Schoharie Formation-shale; Esopus Shale
+NYDou;3,Incidental,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,Carlisle Center Siltstone
+NYDpgd;3,Major,Igneous,Plutonic,Granitic,Granodiorite,,Igneous     Plutonic          Granitic               Granodiorite                    ,Granodiorite,Pluton,muscovite-biotite granodiorite
+NYDpgr;3,Major,Igneous,Plutonic,Granitic,Granite,,Igneous     Plutonic          Granitic               Granite                    ,Granite,Pluton,Muscovite-biotite granite
+NYDs;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDs;2,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDs;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDS;3,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,Port Ewen thru Manlius Limestones; New Scotland Limestone thru Rondout Dolostone; Decker Limestone
+NYDS;3,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,"Rondout Dolostone, Poxono Island Formation-shale, dolostone"
+NYDS;3,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,"Binnewater Sandstone, Kanhouse Sandstone, Woodbury Creek Formation-shale, sandstone; Central Valley Sandstone "
+NYDS;3,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,"Connelly Conglomerate, Green Pond Conglomerate"
+NYDS;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,"High Falls Shale, Woodbury Creek Formation-shale, sandstone; Esopus Shale, Poxono Island Formation-shale, dolostone; Longwood Shale"
+NYDs;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDs;4,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDs;4,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,Middlesex member
+NYDs;4,Incidental,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,"upper gray shale with limestone nodules, the Cashaqua Shale Member."
+NYDs;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDs;5,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDSu;2,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYDSu;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDsw;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDsw;2,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYDsw;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDsw;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDsw;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDsw;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYDt;5,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYDwc;5,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDwc;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDwc;5,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDwf;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,Angola shale
+NYDwf;4,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,Rhinestreet shale
+NYDwg;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDwg;4,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,Grimes Siltstone
+NYDwg;5,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYDwg;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDwh;2,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDwh;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDwh;3,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYDwh;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDwm;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDwm;2,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYDwm;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYDwm;5,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYDwm;5,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale
+NYDwn;4,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDwn;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDwn;5,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDwn;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDwnm;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDwnm;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDwr;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDwr;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDwrg;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDwrg;5,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYDws;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDws;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYDws;2,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate
+NYDws;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYDws;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,
+NYDws;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,
+NYDws;5,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,
+NYDws;5,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,
+NYDws;5,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,
+NYDww;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,
+NYDww;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,
+NYDww;2,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,
+NYDww;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,
+NYDww;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,
+NYDww;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,
+NYKJd;1,"Indeterminate, major",Igneous,Hypabyssal,Lamprophyre,,,Igneous     Hypabyssal          Lamprophyre                                   ,Lamprophyre,Dike or sill
+NYKJd;1,"Indeterminate, major",Igneous,Hypabyssal,Felsic-hypabyssal,Hypabyssal-trachyte,,Igneous     Hypabyssal          Felsic-hypabyssal               Hypabyssal-trachyte                    ,Hypabyssal-trachyte,Dike or sill
+NYKJd;1,"Indeterminate, major",Igneous,Hypabyssal,Felsic-hypabyssal,Hypabyssal-rhyolite,,Igneous     Hypabyssal          Felsic-hypabyssal               Hypabyssal-rhyolite                    ,Hypabyssal-rhyolite,Dike or sill
+NYKJd;2,"Indeterminate, major",Igneous,Hypabyssal,Lamprophyre,,,Igneous     Hypabyssal          Lamprophyre                                   ,Lamprophyre,Dike or sill
+NYKJd;2,"Indeterminate, major",Igneous,Hypabyssal,,,,Igneous     Hypabyssal                                             ,Hypabyssal,Diabase
+NYKJd;2,"Indeterminate, major",Igneous,Volcanic,Mafic-volcanic,Basalt,,Igneous     Volcanic          Mafic-volcanic               Basalt                    ,Basalt,Dike or sill,albite-basalt 
+NYKJk;5,Major,Igneous,Plutonic,Ultramafic,Peridotite,Kimberlite,Igneous     Plutonic          Ultramafic               Peridotite                    Kimberlite,Kimberlite,Dike or sill,Kimberlite and alnoite dikes and diatremes
+NYKJtp;1,Major,Igneous,Hypabyssal,Felsic-hypabyssal,Hypabyssal-trachyte,,Igneous     Hypabyssal          Felsic-hypabyssal               Hypabyssal-trachyte                    ,Hypabyssal-trachyte,Laccolith,
+NYKm;3,"Indeterminate, major",Unconsolidated,Fine-detrital,Clay,,,Unconsolidated     Fine-detrital          Clay                                   ,Clay,,"silty clay, glauconitic sandy clay"
+NYKm;3,"Indeterminate, major",Unconsolidated,Fine-detrital,Silt,,,Unconsolidated     Fine-detrital          Silt                                   ,Silt,,silty clay
+NYKm;3,"Indeterminate, major",Unconsolidated,Coarse-detrital,Sand,,,Unconsolidated     Coarse-detrital          Sand                                   ,Sand,,"sandy clay, sand"
+NYKm;3,"Indeterminate, major",Unconsolidated,Coarse-detrital,Gravel,,,Unconsolidated     Coarse-detrital          Gravel                                   ,Gravel,,
+NYKr;3,Incidental,Unconsolidated,Coarse-detrital,Gravel,,,Unconsolidated     Coarse-detrital          Gravel                                   ,Gravel,,
+NYKr;3,Minor,Unconsolidated,Coarse-detrital,Sand,,,Unconsolidated     Coarse-detrital          Sand                                   ,Sand,,
+NYKr;3,Major,Unconsolidated,Fine-detrital,Clay,,,Unconsolidated     Fine-detrital          Clay                                   ,Clay,,
+NYKr;3,Minor,Unconsolidated,Fine-detrital,Silt,,,Unconsolidated     Fine-detrital          Silt                                   ,Silt,,silty clay
+NYMp;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYMp;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYMp;4,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYOag;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOag;1,Major,Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,
+NYOag;2,Major,Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,
+NYOag;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOag;3,Major,Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,
+NYOag;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOb;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,biotite-quartz-plagioclase gneiss; in part with augen of andesine and microcline
+NYOb;3,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYOba;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOba;3,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOban;3,Major,Igneous,Plutonic,Gabbroic,Gabbro,Norite,Igneous     Plutonic          Gabbroic               Gabbro                    Norite,Norite,,biotite augite norite
+NYObk;1,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYObk;1,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYObk;1,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYObk;1,Incidental,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYObk;2,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYObk;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,"Tribes Hill Formation-limestone, dolostaone; Fort Cassin Formation-limestone, dolostone; Fort Ann Formation-limestone, dolostone; Cutting Formation- limestone at top"
+NYObk;2,Incidental,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,Cutting Formation- siltstone at base.
+NYObk;2,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,Cutting Formation-local chert
+NYObr;1,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYObr;1,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYObr;1,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYObr;1,Incidental,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYObr;1,Incidental,Sedimentary,Clastic,Sandstone,Arkose,,Sedimentary     Clastic          Sandstone               Arkose                    ,Arkose,,
+NYObr;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYObr;2,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYObr;2,Minor,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYOc;1,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYOc;2,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYOCAe;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,Mainly light-gray but ranges from light greenish-gray to dark-gray approaching black. 
+NYOCAe;2,Minor,Metamorphic,Argillite,,,,Metamorphic     Argillite                                             ,Argillite,,
+NYOCAe;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,"Upper part contains horizon with many bands of brown quartzite ranging from 3 inches to 12 inches in thickness, at intervals of 2 or 3 feet. "
+NYOCAe;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOCAe;3,Minor,Metamorphic,Argillite,,,,Metamorphic     Argillite                                             ,Argillite,,
+NYOCAe;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYOCAi;3,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,"dolomite marble, calcite marble"
+NYOCAi;3,Minor,Metamorphic,Schist,Calc-silicate-schist,,,Metamorphic     Schist          Calc-silicate-schist                                   ,Calc-silicate-schist,,calc-schist
+NYOCAi;3,Minor,Metamorphic,Granulite,,,,Metamorphic     Granulite                                             ,Granulite,,
+NYOCAi;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYOCAs;1,Major,Sedimentary,Carbonate,,,,Sedimentary     Carbonate                                             ,Carbonate,Melange,
+NYOCAs;2,Major,Sedimentary,Carbonate,,,,Sedimentary     Carbonate                                             ,Carbonate,Melange,"carbonate rock - occuring as slivers caught along thrusts of later allochthones, or carbonate blocks in Taconic Melange."
+NYOCAs;3,Major,Sedimentary,Carbonate,,,,Sedimentary     Carbonate                                             ,Carbonate,Melange,"carbonate rock - occuring as slivers caught along thrusts of later allochthones, or carbonate blocks in Taconic Melange.  Also mapped as horses along normal faults."
+NYOCAst;2,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,calcitic and dolomitic marble
+NYOCAst;3,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,
+NYOCAth;1,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYOCAth;1,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYOCAu;2,Major,Sedimentary,Clastic,Mudstone,,,Sedimentary     Clastic          Mudstone                                   ,Mudstone,,pelite
+NYOCAu;2,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOCAu;2,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYOCAu;2,Minor,Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke,,
+NYOCAu;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYOCAw;3,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOCAw;3,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYOCAw;3,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,Halcyon Lake Dolostone-locally cherty
+NYOCAw;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,"Pine Plains Formation-dolostone, shale, oolite; Stissing Formation-dolostone, shale"
+NYOch;1,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,Reef,limestones - locally reefy
+NYOch;1,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,Ste. Therese Siltstone at base
+NYOcum;1,Major,Metamorphic,Argillite,,,,Metamorphic     Argillite                                             ,Argillite,,
+NYOd;3,Major,Igneous,Plutonic,Dioritic,Diorite,,Igneous     Plutonic          Dioritic               Diorite                    ,Diorite,,
+NYOf;2,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYOf;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOgb;3,Minor,Igneous,Plutonic,Gabbroic,Gabbro,,Igneous     Plutonic          Gabbroic               Gabbro                    ,Gabbro,,
+NYOgb;3,Minor,Igneous,Plutonic,Gabbroic,Gabbro,Norite,Igneous     Plutonic          Gabbroic               Gabbro                    Norite,Norite,,
+NYOgb;3,Minor,Igneous,Plutonic,Dioritic,Diorite,,Igneous     Plutonic          Dioritic               Diorite                    ,Diorite,,hornblende diorite 
+NYOgb;3,Minor,Igneous,Plutonic,Ultramafic,Pyroxenite,,Igneous     Plutonic          Ultramafic               Pyroxenite                    ,Pyroxenite,,
+NYOh;3,Major,Igneous,Plutonic,Ultramafic,Hornblendite,,Igneous     Plutonic          Ultramafic               Hornblendite                    ,Hornblendite,,
+NYOhn;3,Major,Igneous,Plutonic,Gabbroic,Gabbro,Norite,Igneous     Plutonic          Gabbroic               Gabbro                    Norite,Norite,,hornblende norite
+NYOhr;3,Major,Metamorphic,Gneiss,Hornblende-gneiss,,,Metamorphic     Gneiss          Hornblende-gneiss                                   ,Hornblende-gneiss,,biotite-hornblende-quartz-plagioclase gneiss with accessory garnet and sphene; plagioclase commonly occurs as augen.
+NYOht;3,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYOht;3,Major,Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,pelitic schists
+NYOi;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,"in lower part, calcareous shale"
+NYOi;1,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,"in lower part, calcareous shale"
+NYOm;3,"Indeterminate, major",Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,pelitic schists
+NYOm;3,"Indeterminate, major",Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,sillimanite-garnet-muscovite-biotite-plagioclase-quartz gneiss; sillimanite-garnet-muscovite-biotite-quartz-plagioclase schistose gneiss
+NYOm;3,"Indeterminate, major",Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYOma;3,"Indeterminate, major",Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,sillimanite-garnet-muscovite-biotite-quartz-plagioclase schists
+NYOma;3,"Indeterminate, major",Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,calcite marble
+NYOma;3,"Indeterminate, major",Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock 
+NYOmi;1,Major,Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYOmi;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOmi;1,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYOmi;2,Major,Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYOmi;2,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYOmi;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOmi;3,Major,Metamorphic,Argillite,,,,Metamorphic     Argillite                                             ,Argillite,,
+NYOmi;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOmi;3,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYOn;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOn;2,Minor,Sedimentary,Clastic,Mudstone,,,Sedimentary     Clastic          Mudstone                                   ,Mudstone,,
+NYOn;2,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYOn;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOn;3,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYOn;3,Minor,Metamorphic,Argillite,,,,Metamorphic     Argillite                                             ,Argillite,,
+NYOo;1,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYOo;2,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYOo;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYOopx;3,Major,Igneous,Plutonic,Ultramafic,Pyroxenite,,Igneous     Plutonic          Ultramafic               Pyroxenite                    ,Pyroxenite,,Olivine pyroxenite
+NYOopx;3,Minor,Igneous,Plutonic,Ultramafic,Peridotite,,Igneous     Plutonic          Ultramafic               Peridotite                    ,Peridotite,,local peridotite
+NYOp;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOp;1,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYOp;1,Major,Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYOp;2,Major,Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYOp;2,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYOp;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOpl;2,Major,Igneous,Volcanic,Mafic-volcanic,Basalt,,Igneous     Volcanic          Mafic-volcanic               Basalt                    ,Basalt,"Flow, pillows",
+NYOpw;1,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYOpw;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOpw;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOpw;2,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYOpw;5,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYOpw;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYOpx;3,Major,Igneous,Plutonic,Ultramafic,Pyroxenite,,Igneous     Plutonic          Ultramafic               Pyroxenite                    ,Pyroxenite,,
+NYOq;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,red shale
+NYOq;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,red shale
+NYOq;5,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYOqu;3,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite
+NYOqu;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYOqu;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate
+NYOs;3,Major,Metamorphic,Metaigneous,Serpentinite,,,Metamorphic     Metaigneous          Serpentinite                                   ,Serpentinite
+NYOsc;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYOsc;2,"Indeterminate, major",Sedimentary,Clastic,Sandstone,Graywacke,,Sedimentary     Clastic          Sandstone               Graywacke                    ,Graywacke
+NYOsc;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYOsc;2,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYOsf;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYOsf;2,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYOsf;3,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYOsf;3,Major,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYOsp;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYOt;1,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYOt;1,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYOt;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOtbr;1,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOtbr;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOtm;1,Major,Tectonite,Melange,,,,Tectonite     Melange                                             ,Melange,Melange,chaotic mixture of Early Cambrian thru Middle Ordovician pebble to block-size clasts in a pelitic matrix of Middle Ordovician (Barneveld) age.  
+NYOtm;2,Major,Tectonite,Melange,,,,Tectonite     Melange                                             ,Melange,Melange,chaotic mixture of Early Cambrian thru Middle Ordovician pebble to block-size angular to rounded clasts in a pelitic matrix of Middle Ordovician (Barneveld) age.
+NYOtm;3,Major,Tectonite,Melange,,,,Tectonite     Melange                                             ,Melange,Melange,chaotic mixture of Early Cambrian thru Middle Ordovician pebble to block-size clasts in a pelitic matrix of Middle Ordovician (Barneveld) age.
+NYOu;1,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYOu;2,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYOu;5,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYOw;2,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOw;2,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,Calcareous,
+NYOw;2,Minor,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,Halcyon Lake Formation-chert
+NYOw;3,Major,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYOw;3,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYOw;3,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,Copake Formation
+NYOw;3,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,Halcyon Lake Dolostone-locally cherty.
+NYOwl;2,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Slate,,Metamorphic     Metasedimentary          Metaclastic               Slate                    ,Slate,,
+NYOwl;2,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Metamorphic     Metasedimentary          Metaclastic               Phyllite                    ,Phyllite,,
+NYOwl;2,"Indeterminate, major",Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,
+NYOwl;2,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Metasandstone,Metagraywacke,Metamorphic     Metasedimentary          Metaclastic               Metasandstone                    Metagraywacke,Metagraywacke,,metagraywacke
+NYOwl;3,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Phyllite,,Metamorphic     Metasedimentary          Metaclastic               Phyllite                    ,Phyllite,,
+NYOwl;3,"Indeterminate, major",Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,
+NYOwl;3,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Metasandstone,Metagraywacke,Metamorphic     Metasedimentary          Metaclastic               Metasandstone                    Metagraywacke,Metagraywacke,,metagraywacke
+NYPAp;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYPAp;4,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYPAp;4,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,"Sharon Formation, Olean Conglomerate"
+NYQ;1,Major,Unconsolidated,,,,,Unconsolidated                                                  ,Unconsolidated,Alluvial,
+NYQ;1,Major,Unconsolidated,,,,,Unconsolidated                                                  ,Unconsolidated,Glacial,
+NYQ;2,Major,Unconsolidated,,,,,Unconsolidated                                                  ,Unconsolidated,Alluvial,
+NYQ;2,Major,Unconsolidated,,,,,Unconsolidated                                                  ,Unconsolidated,Glacial,
+NYQ;3,Major,Unconsolidated,,,,,Unconsolidated                                                  ,Unconsolidated,Glacial,
+NYQ;3,Major,Unconsolidated,,,,,Unconsolidated                                                  ,Unconsolidated,Alluvial,
+NYSab;4,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,Bertie Formation
+NYSab;4,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSab;5,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSab;5,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSbs;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSbs;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYSbs;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,"Shawangunk Conglomerate-sandstone, conglomerate"
+NYSbs;3,"Indeterminate, major",Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,Guymard Quartzite
+NYScc;5,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYScc;5,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYScc;5,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYScl;2,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYScl;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYScl;2,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYScl;2,Minor,Sedimentary,Chemical,,,,Sedimentary     Chemical                                             ,Chemical,,"Kirkland Hematite, Westmoreland Hematite"
+NYScl;4,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYScl;4,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYScl;4,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,Rochester Shale
+NYScl;4,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYScl;5,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYScl;5,Minor,Sedimentary,Chemical,,,,Sedimentary     Chemical                                             ,Chemical,,"Kirkland Hematite, Westmoreland Hematite"
+NYScl;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYScl;5,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYScs;2,"Indeterminate, major",Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYScs;2,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYScs;2,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYScv;4,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYScv;4,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYScv;4,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,Sedimentary     Chemical          Evaporite               Gypsum                    ,Gypsum,,
+NYScv;4,Minor,Sedimentary,Chemical,Evaporite,Salt,,Sedimentary     Chemical          Evaporite               Salt                    ,Salt,,
+NYScv;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYScy;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYScy;5,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYScy;5,Minor,Sedimentary,Chemical,Evaporite,Gypsum,,Sedimentary     Chemical          Evaporite               Gypsum                    ,Gypsum,,
+NYScy;5,Minor,Sedimentary,Chemical,Evaporite,Salt,,Sedimentary     Chemical          Evaporite               Salt                    ,Salt,,
+NYSik;4,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYSik;4,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSik;4,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSik;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYSik;4,Incidental,Sedimentary,Chemical,Phosphorite,,,Sedimentary     Chemical          Phosphorite                                   ,Phosphorite,,
+NYSik;4,Incidental,Sedimentary,Chemical,Chert,,,Sedimentary     Chemical          Chert                                   ,Chert,,
+NYSik;5,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,
+NYSik;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSik;5,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYSik;5,Minor,Sedimentary,Chemical,,,,Sedimentary     Chemical                                             ,Chemical,,"Wolcott Furnace Hematite, Furnaceville Hematite"
+NYSik;5,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSik;5,Incidental,Sedimentary,Chemical,Phosphorite,,,Sedimentary     Chemical          Phosphorite                                   ,Phosphorite,,part of Williamson Shale
+NYSl;2,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYSl;2,Incidental,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone
+NYSl;4,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone
+NYSl;4,Incidental,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYSl;5,Major,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone
+NYSl;5,Incidental,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone
+NYSm;4,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYSm;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYSm;5,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYSm;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYSm;5,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYSm;5,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate
+NYSm;5,Incidental,Sedimentary,Chemical,Phosphorite,,,Sedimentary     Chemical          Phosphorite                                   ,Phosphorite
+NYSmOq;1,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone
+NYSmOq;1,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale
+NYSmOq;1,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone
+NYSmOq;1,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate
+NYSmOq;1,Incidental,Sedimentary,Chemical,Phosphorite,,,Sedimentary     Chemical          Phosphorite                                   ,Phosphorite,,base of Grimby Formation
+NYSmOq;5,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYSmOq;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSmOq;5,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYSmOq;5,Incidental,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYSmOq;5,Incidental,Sedimentary,Chemical,Phosphorite,,,Sedimentary     Chemical          Phosphorite                                   ,Phosphorite,,base of Grimby Formation
+NYSr;4,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSr;4,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSr;4,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,Rochester Shale
+NYSr;4,Incidental,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Sedimentary     Clastic          Sandstone               Arenite                    Calcarenite,Calcarenite,,Rochester Shale
+NYSr;5,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSr;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSr;5,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,Rochester Shale
+NYSr;5,Incidental,Sedimentary,Clastic,Sandstone,Arenite,Calcarenite,Sedimentary     Clastic          Sandstone               Arenite                    Calcarenite,Calcarenite,,Rochester Shale
+NYSrp;3,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSrp;3,Minor,Sedimentary,Carbonate,Limestone,,,Sedimentary     Carbonate          Limestone                                   ,Limestone,,Warwarsing Limestone; Decker Limestone; Bossardville Limestone
+NYSrp;3,Minor,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,Binnewater Sandstone
+NYSrp;3,Minor,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,"High Falls Shale, Poxono Island Formation-shale, dolostone."
+NYSrp;3,Minor,Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,"Decker Limestone, Poxono Island Formation"
+NYSsy;5,"Indeterminate, major",Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSsy;5,"Indeterminate, major",Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSsy;5,"Indeterminate, major",Sedimentary,Chemical,Evaporite,Gypsum,,Sedimentary     Chemical          Evaporite               Gypsum                    ,Gypsum,,
+NYSsy;5,"Indeterminate, major",Sedimentary,Chemical,Evaporite,Salt,,Sedimentary     Chemical          Evaporite               Salt                    ,Salt,,
+NYSv;2,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSv;2,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYSv;5,Major,Sedimentary,Clastic,Mudstone,Shale,,Sedimentary     Clastic          Mudstone               Shale                    ,Shale,,
+NYSv;5,Minor,Sedimentary,Carbonate,Dolostone,,,Sedimentary     Carbonate          Dolostone                                   ,Dolostone,,
+NYSv;5,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Sedimentary     Clastic          Mudstone               Shale                    Black-shale,Black-shale,,
+NYTRb;3,"Indeterminate, major",Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYTRb;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYTRb;3,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYTRb;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Sedimentary     Clastic          Mudstone                                   ,Mudstone,,
+NYTRb;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,Arkose,,Sedimentary     Clastic          Sandstone               Arkose                    ,Arkose,,
+NYTRba;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Sedimentary     Clastic          Mudstone                                   ,Mudstone,,
+NYTRba;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYTRba;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,Arkose,,Sedimentary     Clastic          Sandstone               Arkose                    ,Arkose,,
+NYTRbg;3,Minor,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYTRbg;3,Major,Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYTRbs;3,"Indeterminate, major",Sedimentary,Clastic,Sandstone,,,Sedimentary     Clastic          Sandstone                                   ,Sandstone,,
+NYTRbs;3,"Indeterminate, major",Sedimentary,Clastic,Siltstone,,,Sedimentary     Clastic          Siltstone                                   ,Siltstone,,
+NYTRbs;3,"Indeterminate, major",Sedimentary,Clastic,Mudstone,,,Sedimentary     Clastic          Mudstone                                   ,Mudstone,,
+NYTRhc;3,Major,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYTRl;3,Major,Igneous,Volcanic,Mafic-volcanic,Basalt,,Igneous     Volcanic          Mafic-volcanic               Basalt                    ,Basalt,Diabase,
+NYTRl;3,Major,Igneous,Volcanic,Mafic-volcanic,Basalt,,Igneous     Volcanic          Mafic-volcanic               Basalt                    ,Basalt,Flow,basaltic lava
+NYTRp;3,Major,Igneous,Volcanic,Mafic-volcanic,Basalt,,Igneous     Volcanic          Mafic-volcanic               Basalt                    ,Basalt,Diabase,"gray, white, and black dense rock composed mostly of plagioclase feldspar, augite, and quartz."
+NYTRs;3,Major,Sedimentary,Clastic,Sandstone,Arkose,,Sedimentary     Clastic          Sandstone               Arkose                    ,Arkose,,
+NYTRs;3,Major,Sedimentary,Clastic,Conglomerate,,,Sedimentary     Clastic          Conglomerate                                   ,Conglomerate,,
+NYTRs;3,Major,Sedimentary,Clastic,Mudstone,,,Sedimentary     Clastic          Mudstone                                   ,Mudstone,,
+NYwater;1,Major,Water,,,,,Water                                                  ,Water,,
+NYwater;2,Major,Water,,,,,Water                                                  ,Water,,
+NYwater;3,Major,Water,,,,,Water                                                  ,Water,,
+NYwater;4,Major,Water,,,,,Water                                                  ,Water,,
+NYwater;5,Major,Water,,,,,Water                                                  ,Water,,
+NYYa;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,anorthositic gneiss
+NYYa;1,Major,Metamorphic,Metaigneous,Metaintrusive,Metaanorthosite,,Metamorphic     Metaigneous          Metaintrusive               Metaanorthosite                    ,Metaanorthosite,,Metanorthosite
+NYYa;2,Major,Metamorphic,Metaigneous,Metaintrusive,Metaanorthosite,,Metamorphic     Metaigneous          Metaintrusive               Metaanorthosite                    ,Metaanorthosite,,Metanorthosite
+NYYa;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,anorthositic gneiss
+NYYach;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,mangeritic to charnockitic gneiss
+NYYach;1,Major,Igneous,Plutonic,Anorthosite,,,Igneous     Plutonic          Anorthosite                                   ,Anorthosite,,xenoliths of anorthosite passing into anorthositic rocks
+NYYack;1,Major,Metamorphic,Metaigneous,Metaintrusive,Metaanorthosite,,Metamorphic     Metaigneous          Metaintrusive               Metaanorthosite                    ,Metaanorthosite,,Interlayered gabbroic or noritic metanorthosite 
+NYYack;1,Minor,Igneous,Plutonic,Charnockite,,,Igneous     Plutonic          Charnockite                                   ,Charnockite,,charnockite
+NYYack;1,Minor,Igneous,Plutonic,Anorthosite,,,Igneous     Plutonic          Anorthosite                                   ,Anorthosite,,xenoliths of anorthosite
+NYYam;1,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYam;2,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYam;3,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,"amphibolite, pyroxenic amphibolite"
+NYYam;3,Minor,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"hornblende gneiss, commonly biotitic, garnetiferous"
+NYYam;3,Incidental,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,subordinate calcsilicate rock
+NYYamg;1,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYamg;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"granitic, charnockitic, mangeritic, or syenitic gneiss"
+NYYamg;2,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYamg;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"granitic, charnockitic, mangeritic, or syenitic gneiss"
+NYYamg;3,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYamg;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,hornblende granitic gneiss
+NYYamu;1,Major,Igneous,Plutonic,Anorthosite,,,Igneous     Plutonic          Anorthosite                                   ,Anorthosite,,"ranges from anorthositic rock with local blocks, shreds or layers of undifferentiated metasediment, to mappable roof pendants and/or xenoliths of metasediment in anorthositic rock."
+NYYamu;1,Major,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,"ranges from anorthositic rock with local blocks, shreds or layers of undifferentiated metasediment, to mappable roof pendants and/or xenoliths of metasediment in anorthositic rock."
+NYYao;1,Major,Metamorphic,Metaigneous,Metaintrusive,Metaanorthosite,,Metamorphic     Metaigneous          Metaintrusive               Metaanorthosite                    ,Metaanorthosite,,Gabbroic or noritic metanorthosite
+NYYao;2,Major,Metamorphic,Metaigneous,Metaintrusive,Metaanorthosite,,Metamorphic     Metaigneous          Metaintrusive               Metaanorthosite                    ,Metaanorthosite,,Gabbroic or noritic metanorthosite
+NYYbg;2,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,Biotite granite gneiss 
+NYYbg;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,biotite granite gneiss
+NYYbhg;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,granite gneiss
+NYYbhg;3,Major,Igneous,Plutonic,Granitic,Granite,,Igneous     Plutonic          Granitic               Granite                    ,Granite,,biotite-hornblende granite
+NYYbqp;1,Major,Metamorphic,Metasedimentary,Paragneiss,,,Metamorphic     Metasedimentary          Paragneiss                                   ,Paragneiss,,Biotite-quartz-plagioclase paragneiss
+NYYbqp;1,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYbqp;1,Minor,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYbqp;2,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,Biotite-quartz-plagioclase gneiss
+NYYbqp;2,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYbqp;2,Minor,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYbqpc;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,biotite-quartz-plagioclase gneiss - with subordinate biotite granitic gneiss
+NYYbqpc;3,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYbqpc;3,Incidental,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYbqpq;1,Major,Metamorphic,Metasedimentary,Paragneiss,,,Metamorphic     Metasedimentary          Paragneiss                                   ,Paragneiss,,Biotite-quartz-plagioclase paragneiss - commonly very low in biotite content
+NYYbqpq;1,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,feldspathic and biotitic quartzite
+NYYbqpq;1,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYbqpq;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,Biotite-quartz-plagioclase gneiss - commonly very low in biotite content
+NYYbqpq;2,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,feldspathic and biotitic quartzite
+NYYbqpq;2,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYcs;1,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,Dolomitic and calcitic marbles; diopsidic and tremolitic marble
+NYYcs;1,Minor,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYcs;1,Minor,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,
+NYYcs;1,Incidental,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,diopsidic and tremolitic marble and quartzite
+NYYcs;1,Minor,Metamorphic,Granulite,,,,Metamorphic     Granulite                                             ,Granulite,,pyroxene granulite
+NYYcs;1,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,metasedimentary amphibolite
+NYYcs;1,Incidental,Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,"talc-tremolite rock (mined in Balmat-Edwards belt, northwest Adirondacks)."
+NYYcs;3,Major,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYffg;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,granite gneiss
+NYYffg;1,Major,Igneous,Plutonic,Granitic,Granite,,Igneous     Plutonic          Granitic               Granite                    ,Granite,,Ferrohedenbergite-fayalite granite and granite gneiss
+NYYgarb;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"Quartz-feldspar gneiss - with variable amounts of garnet, sillimanite, biotite"
+NYYgarb;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,Quartz-feldspar gneiss
+NYYgb;1,Major,Metamorphic,Metaigneous,Metaintrusive,Metagabbro,,Metamorphic     Metaigneous          Metaintrusive               Metagabbro                    ,Metagabbro,,"metagabbro, olivine metagabbro"
+NYYgb;1,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYgb;2,Major,Metamorphic,Metaigneous,Metaintrusive,Metagabbro,,Metamorphic     Metaigneous          Metaintrusive               Metagabbro                    ,Metagabbro,,"metagabbro, olivine metagabbro"
+NYYgb;2,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYhbg;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"Biotite and/or hornblende granite gneiss - locally pyroxenic; commonly with subordinate leucogranitic gneiss, biotite-quartz-plagioclase gneiss."
+NYYhbg;1,Minor,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rocks
+NYYhbg;1,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYhbg;1,Incidental,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYhbg;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"Biotite and/or hornblende granite gneiss; commonly with subordinate leucogranitic gneiss, biotite-quartz-plagioclase gneiss"
+NYYhbg;2,Minor,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,other metasedimentary rocks
+NYYhbg;2,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYhbg;2,Incidental,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYhbgo;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"Biotite and/or hornblende granite gneiss, leucogranitic gneiss, biotite-quartz-plagioclase gneiss"
+NYYhbgo;1,Minor,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rocks
+NYYhbgo;1,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYhbgo;1,Incidental,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYhbgo;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"Biotite and/or hornblende granite gneiss, leucogranitic gneiss, biotite-quartz-plagioclase gneiss"
+NYYhbgo;2,Minor,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rocks
+NYYhbgo;2,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYhbgo;2,Incidental,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYhg;3,Major,Igneous,Plutonic,Granitic,Granite,,Igneous     Plutonic          Granitic               Granite                    ,Granite,,hornblende granite
+NYYhg;3,Minor,Igneous,Plutonic,Granitic,Leucocratic-granitic,,Igneous     Plutonic          Granitic               Leucocratic-granitic                    ,Leucocratic-granitic,,subordinate leucogranite
+NYYhg;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,granite gneiss 
+NYYhqs;1,Major,Metamorphic,Gneiss,Hornblende-gneiss,,,Metamorphic     Gneiss          Hornblende-gneiss                                   ,Hornblende-gneiss,,Hornblende-quartz syenite gneiss
+NYYhs;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,Hornblende syenite gneiss
+NYYlg;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,Leucogranitic (alaskitic) gneiss
+NYYlg;1,Minor,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,commonly contains metasedimentary layers
+NYYlg;1,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYlg;1,Minor,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYlg;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,Leucogranitic gneiss
+NYYlg;2,Minor,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYlg;2,Minor,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary layers
+NYYlg;2,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYlg;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,leucogranitic gneiss
+NYYmb;1,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,Calcitic and dolomitic marble
+NYYmb;1,Incidental,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYmb;1,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYmb;2,Incidental,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYmb;2,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,Calcitic and dolomitic marble
+NYYmb;2,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYmb;3,Major,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,Calcitic and dolomitic marble - variably siliceous
+NYYmb;3,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYmb;3,Incidental,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYmu;1,Major,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rock
+NYYmu;1,Major,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYmu;2,Major,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rock
+NYYmu;2,Major,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYmug;1,Major,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rock
+NYYmug;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"granitic, charnockitic, mangeritic, or syenitic gneiss."
+NYYmug;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"granitic, charnockitic, mangeritic, or syenitic gneiss"
+NYYmug;2,Major,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rock 
+NYYmug;3,Major,Metamorphic,Metasedimentary,,,,Metamorphic     Metasedimentary                                             ,Metasedimentary,,metasedimentary rock
+NYYmug;3,Major,Metamorphic,Gneiss,Hornblende-gneiss,,,Metamorphic     Gneiss          Hornblende-gneiss                                   ,Hornblende-gneiss,,granitic gneiss
+NYYphg;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,Pyroxene and/or hornblende granitic gneiss
+NYYphgs;1,Major,Igneous,Plutonic,Charnockite,,,Igneous     Plutonic          Charnockite                                   ,Charnockite,,
+NYYphgs;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,granitic and quartz syenite gneiss; may contain interlayered metasedimentary gneiss
+NYYphgs;1,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYphgs;1,Minor,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYphgs;2,Major,Igneous,Plutonic,Charnockite,,,Igneous     Plutonic          Charnockite                                   ,Charnockite,,
+NYYphgs;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,granitic and quartz syenite gneiss; metasedimentary gneiss
+NYYphgs;2,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYphgs;2,Minor,Metamorphic,Migmatite,,,,Metamorphic     Migmatite                                             ,Migmatite,,
+NYYphqs;1,Major,Igneous,Plutonic,Charnockite,,,Igneous     Plutonic          Charnockite                                   ,Charnockite,,Charnockite
+NYYphqs;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,pyroxene-quartz syenite gneiss
+NYYphqs;2,Major,Igneous,Plutonic,Charnockite,,,Igneous     Plutonic          Charnockite                                   ,Charnockite,,
+NYYphqs;2,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,pyroxene-quartz syenite gneiss
+NYYps;1,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,pyroxene syenite gneiss - pyroxene-(hornblende) syenitic gneiss
+NYYps;1,Major,Igneous,Plutonic,Syenitic,Monzonite,,Igneous     Plutonic          Syenitic               Monzonite                    ,Monzonite,,charnockitic (mangerite)
+NYYqpg;2,Major,Metamorphic,Gneiss,Hornblende-gneiss,,,Metamorphic     Gneiss          Hornblende-gneiss                                   ,Hornblende-gneiss,,Pyroxene-hornblende-quartz-plagioclase gneiss.
+NYYqpg;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"quartz-plagioclase gneiss, subordinate biotite mesoperthite gneiss"
+NYYqpg;3,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYqt;1,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYYqt;1,Major,Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,quartz-biotite schist and graphitic schist
+NYYqt;2,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYYqt;2,Major,Metamorphic,Schist,,,,Metamorphic     Schist                                             ,Schist,,quartz schist and graphitic schist
+NYYqtcs;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,"garnet-biotite-quartz-feldspar gneiss, quartz-feldspar gneiss"
+NYYqtcs;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYYqtcs;3,Minor,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYqtlg;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"Garnet-bearing gneiss, rusty paragneiss"
+NYYqtlg;3,Major,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYYqtlg;3,Incidental,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,
+NYYqtlg;3,Incidental,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYYqtlg;3,Incidental,Metamorphic,Metasedimentary,Paragneiss,,,Metamorphic     Metasedimentary          Paragneiss                                   ,Paragneiss,,
+NYYrg;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,rusty and gray biotite-quartz-feldspar gneiss
+NYYrg;3,Incidental,Metamorphic,Metasedimentary,Metacarbonate,Marble,,Metamorphic     Metasedimentary          Metacarbonate               Marble                    ,Marble,,
+NYYrg;3,Incidental,Metamorphic,Metasedimentary,Calc-silicate-rock,,,Metamorphic     Metasedimentary          Calc-silicate-rock                                   ,Calc-silicate-rock,,calcsilicate rock
+NYYsc;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,sillimanite-cordierite-almandine-biotite-quartz-feldspar gneiss
+NYZf;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"garnet-biotite-quartz-plagioclase gneiss, sillimanite-garnet schistose gneiss,  biotite-hornblende-quartz-plagioclase gneiss, biotite and/or hornblende-quartz-feldspar gneiss, biotite and/or hornblende-garnet-quartz-plagioclase gneiss, garnet-biotite-quartz-plagioclase gneiss, biotite-hornblende-quartz-plagioclase gneiss"
+NYZf;3,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYZf;3,Minor,Metamorphic,Granulite,,,,Metamorphic     Granulite                                             ,Granulite,,
+NYZf;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYZfa;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,"garnet-biotite-quartz-plagioclase gneiss, biotite-hornblende-quartz-plagioclase gneiss"
+NYZfa;3,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYZfa;3,Minor,Metamorphic,Granulite,,,,Metamorphic     Granulite                                             ,Granulite,,
+NYZfb;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,biotite and/or hornblende-garnet-quartz-plagioclase gneiss
+NYZfb;3,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYZfc;3,Minor,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYZfc;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,"biotite-hornblende-quartz-plagioclase gneiss, biotite and/or hornblende-quartz-feldspar gneiss, sillimanite-garnet schistose gneiss"
+NYZfc;3,Minor,Metamorphic,Metasedimentary,Metaclastic,Quartzite,,Metamorphic     Metasedimentary          Metaclastic               Quartzite                    ,Quartzite,,
+NYZfe;3,Major,Metamorphic,Gneiss,Biotite-gneiss,,,Metamorphic     Gneiss          Biotite-gneiss                                   ,Biotite-gneiss,,garnet-biotite-quartz-plagioclase gneiss
+NYZfe;3,Major,Metamorphic,Amphibolite,,,,Metamorphic     Amphibolite                                             ,Amphibolite,,
+NYZpg;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,biotite and/or hornblende-quartz-feldspar gneiss
+NYZy;3,Major,Metamorphic,Gneiss,,,,Metamorphic     Gneiss                                             ,Gneiss,,biotite and/or hornblende-quartz-feldspar gneiss
